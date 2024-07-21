@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tejas-sahu20.github.io/NoIssues",
+  "homepage": "https://tejas-sahu20.github.io/FrontendTweeter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
