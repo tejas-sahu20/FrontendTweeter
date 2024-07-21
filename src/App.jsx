@@ -84,6 +84,7 @@ function App() {
           
           <Route path='/register' element={<Register />} />
           <Route path='/createTweet' element={<CreateTweet />} />
+          <Route path='/createTweet' element={<Login />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
       </BrowserRouter>
